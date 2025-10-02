@@ -20,6 +20,7 @@ int main()
           break;
           case 7 : printf("sunday");
           break;
+          default : printf("Ivalid input! please enter a number between 1 and 7.");
         }
     return 0;
    }
